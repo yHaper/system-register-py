@@ -1,0 +1,10 @@
+Esses dois scripts são os dois scripts que estou usando para criar 
+o sistema de registro e login e essa é a segunda grande parte.
+
+Qual é proximo passo? aprender mais sobre python e como funciona a exportação de scripts
+para assim conseguir fazer um banco de dados onde ira armazenar o registro do primeiro script "main.py"
+por isso esses dois scripts ai
+
+o inicio de expotação deles, pode estar um pouco errado ou errado mesmo, só estava testando
+e agora deixarei eles aqui, para quando obter mais conhecimento dobre python/exportação, retorna a esse
+meu passa tempo.

@@ -1,0 +1,7 @@
+UPDATE 2.0
+
+Novidades:
+
+Adicionado uma opção de "tentar novamente" quando erra a senha ou usuario, na aba de login
+
+Resolvido algumas faltas de prints ou avisos  
